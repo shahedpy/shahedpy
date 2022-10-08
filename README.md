@@ -1,11 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Shahed Mohammad Hridoy, people call me Shahed, currently pursuing diploma in computer engineering from [Saic Institute of Management & Technology](http://simt.edu.bd/). I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-shahedmohammadhridoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahedmohammadhridoy/)](https://www.linkedin.com/in/shahedmohammadhridoy/)
-[![Instagram Badge](https://img.shields.io/badge/-shahedmohammadhridoy-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shahedmohammadhridoy/)](https://instagram.com/shahedmohammadhridoy)
-[![Medium Badge](https://img.shields.io/badge/-@shahedmohammadhridoy-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@shahedmohammadhridoy/)](https://medium.com/@shahedmohammadhridoy)
-[![Gmail Badge](https://img.shields.io/badge/-shahedhridoy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahedhridoy@gmail.com)](mailto:shahedhridoy@gmail.com)
+shahed_hridoy@outlook.com
 
 ## ⚡ Technologies
 
