@@ -2,7 +2,10 @@
 [![](https://img.shields.io/badge/-@shahed-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/shahedmhridoy)
 [![](https://img.shields.io/badge/-@shahed-%23181717?style=flat-square&logo=github)](https://github.com/shahedmohammadhridoy)
 <br>
-Hello, I'm <a href="https://wdshahed.w3spaces.com/">Shahed Mohammad Hridoy</a>
+Hi, I'm <a href="https://wdshahed.w3spaces.com/">Shahed</a>
+Web & Android App Developer
+High level experience in web & android app development knowledge, producing quality work.
+
 ## My Tech Stack
 <table>
   <tr>
