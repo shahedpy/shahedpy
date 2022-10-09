@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">
-      <img alt="html" height=64px src="https://sololearnuploads.azureedge.net/uploads/courses/1014.png">
+      <img alt="html" height=64px src="https://worldvectorlogo.com/download/html-1.svg">
       <br>HTML
     </td>
     <td align="center">
