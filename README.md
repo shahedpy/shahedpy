@@ -8,7 +8,7 @@
       <br>HTML
     </td>
     <td align="center">
-      <img alt="html" height=64px src="https://sololearnuploads.azureedge.net/uploads/courses/1023.png">
+      <img alt="html" height=64px src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
       <br>CSS
     </td>
     <td align="center">
