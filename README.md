@@ -1,6 +1,5 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-<br>
-<h2>My tech stack</h2>
+### Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## My tech stack
 <table>
   <tr>
     <td align="center">
@@ -21,8 +20,6 @@
     <td align="center">
     <img alt="adminlte" width=64px src="https://cdn.worldvectorlogo.com/logos/adminlte.svg"/>
   </tr>
-  
-  
   <tr>
     <td align="center">HTML</td>
     <td align="center">CSS</td>
@@ -51,7 +48,4 @@
     <td align="center">Python</td>
     <td align="center">Django</td>
   </tr>
-  
-  
-  
 </table>
