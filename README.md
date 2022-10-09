@@ -7,6 +7,7 @@ Web & Android App Developer<br>
 High level experience in web & android app development knowledge, producing quality work.
 
 ## Favorite Tech
+> Tools, languages, and other things that I like to work with.
 <table>
   <tr>
     <td align="center">
