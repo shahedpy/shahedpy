@@ -4,6 +4,10 @@
 <table>
   <tr>
     <td align="center">
+      <img alt="html" height=64px src="https://www.svgrepo.com/download/303205/html-5-logo.svg">
+      <br>HTML
+    </td>
+    <td align="center">
       <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <br>Python
     </td>
