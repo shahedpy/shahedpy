@@ -24,7 +24,7 @@
       <br>Bootstrap
     </td>
     <td align="center">
-    <img alt="adminlte" height=64px src="https://cdn.worldvectorlogo.com/logos/adminlte.svg"/>
+    <img alt="adminlte" width=64px src="https://cdn.worldvectorlogo.com/logos/adminlte.svg"/>
     <br>AdminLTE
   </tr>
   <tr>
