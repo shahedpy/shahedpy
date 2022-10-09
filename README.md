@@ -3,6 +3,7 @@
 [![](https://img.shields.io/badge/-@shahed-%23181717?style=flat-square&logo=github)](https://github.com/shahedmohammadhridoy)
 <br>
 Hello, I'm <a href="https://wdshahed.w3spaces.com/">Shahed Mohammad Hridoy</a>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 ## My Tech Stack
 <table>
   <tr>
@@ -53,4 +54,3 @@ Hello, I'm <a href="https://wdshahed.w3spaces.com/">Shahed Mohammad Hridoy</a>
     <td align="center">Django</td>
   </tr>
 </table>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
