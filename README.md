@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">
-      <img alt="html" height=64px src="https://worldvectorlogo.com/download/html-1.svg">
+      <img alt="html" height=64px src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
       <br>HTML
     </td>
     <td align="center">
