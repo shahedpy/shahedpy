@@ -47,12 +47,17 @@ Hello, I'm <a href="https://wdshahed.w3spaces.com/">Shahed Mohammad Hridoy</a>
     </td>
     <td align="center">
       <img alt="java" height=64px src="https://cdn.worldvectorlogo.com/logos/java.svg">
+    </td>
+    <td align="center">
+      <img alt="java" height=64px src="https://cdn.worldvectorlogo.com/logos/android-4.svg">
+    </td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">Php</td>
     <td align="center">MySQL</td>
     <td align="center">Python</td>
     <td align="center">Django</td>
     <td align="center">Java</td>
+    <td align="center">Android</td>
   </tr>
 </table>
