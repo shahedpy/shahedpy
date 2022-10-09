@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">
-      <img alt="html" height=64px src="https://www.svgrepo.com/download/303205/html-5-logo.svg">
+      <img alt="html" height=64px src="https://sololearnuploads.azureedge.net/uploads/courses/1014.png">
       <br>HTML
     </td>
     <td align="center">
