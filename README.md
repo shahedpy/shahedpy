@@ -43,9 +43,5 @@
       <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
       <br>Django
     </td>
-    <td align="center">
-      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <br>MySQL
-    </td>
   </tr>
 </table>
