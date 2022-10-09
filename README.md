@@ -8,6 +8,10 @@
       <br>HTML
     </td>
     <td align="center">
+      <img alt="html" height=64px src="https://sololearnuploads.azureedge.net/uploads/courses/1023.png">
+      <br>CSS
+    </td>
+    <td align="center">
       <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <br>Python
     </td>
