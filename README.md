@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img alt="php" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+      <img alt="php" width="64px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
       <br>Php
     </td>
   </tr>
