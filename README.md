@@ -20,17 +20,17 @@
       <br>Bootstrap
     </td>
     <td align="center">
-    <img alt="adminlte" height=64px src="https://cdn.worldvectorlogo.com/logos/adminlte.svg"/>
+    <img alt="adminlte" width=64px src="https://cdn.worldvectorlogo.com/logos/adminlte.svg"/>
   </tr>
   
   
   <tr>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>JavaScript</td>
-    <td>jQuery</td>
-    <td>Bootstrap</td>
-    <td>AdminLTE</td>
+    <td align="center">HTML</td>
+    <td align="center">CSS</td>
+    <td align="center">JavaScript</td>
+    <td align="center">jQuery</td>
+    <td align="center">Bootstrap</td>
+    <td align="center">AdminLTE</td>
   </tr>
   
   
