@@ -16,7 +16,7 @@
       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
     </td>
     <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <img alt="bootstrap" height=64px src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
       <br>Bootstrap
     </td>
     <td align="center">
