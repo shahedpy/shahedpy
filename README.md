@@ -1,4 +1,4 @@
-<h1>:wave: Hello, I'm Shahed Mohammad Hridoy</h1>
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 <br>
 <h2>My tech stack</h2>
 <table>
