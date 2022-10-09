@@ -32,8 +32,6 @@
     <td align="center">Bootstrap</td>
     <td align="center">AdminLTE</td>
   </tr>
-  
-  
   <tr>
     <td align="center">
       <img alt="php" width="64px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
@@ -52,4 +50,13 @@
       <br>Django
     </td>
   </tr>
+   <tr>
+    <td align="center">Php</td>
+    <td align="center">MySQL</td>
+    <td align="center">Python</td>
+    <td align="center">Django</td>
+  </tr>
+  
+  
+  
 </table>
