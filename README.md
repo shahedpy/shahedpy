@@ -34,19 +34,15 @@
   <tr>
     <td align="center">
       <img alt="php" width="64px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
-      <br>Php
     </td>
     <td align="center">
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <br>MySQL
     </td>
     <td align="center">
       <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <br>Python
     </td>
     <td align="center">
       <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
-      <br>Django
     </td>
   </tr>
    <tr>
