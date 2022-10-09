@@ -49,7 +49,7 @@ Hello, I'm <a href="https://wdshahed.w3spaces.com/">Shahed Mohammad Hridoy</a>
       <img alt="java" height=64px src="https://cdn.worldvectorlogo.com/logos/java.svg">
     </td>
     <td align="center">
-      <img alt="java" height=64px src="https://cdn.worldvectorlogo.com/logos/android-4.svg">
+      <img alt="android" width=64px src="https://cdn.worldvectorlogo.com/logos/android-4.svg">
     </td>
   </tr>
   <tr>
