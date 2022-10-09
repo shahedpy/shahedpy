@@ -11,7 +11,7 @@ High level experience in web & android app development knowledge, producing qual
 <table>
   <tr>
     <td align="center" width="96">
-      <img alt="html" height=64px src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+      <img alt="html" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     </td>
     <td align="center" width="96">
       <img alt="css" height=64px src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
