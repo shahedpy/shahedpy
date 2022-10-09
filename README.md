@@ -5,28 +5,35 @@
   <tr>
     <td align="center">
       <img alt="html" height=64px src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-      <br>HTML
     </td>
     <td align="center">
       <img alt="css" height=64px src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-      <br>CSS
     </td>
     <td align="center">
       <img alt="javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-      <br>Javascript
     </td>
     <td align="center">
       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-      <br>jQuery
     </td>
     <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
     </td>
     <td align="center">
-    <img alt="adminlte" width=64px src="https://cdn.worldvectorlogo.com/logos/adminlte.svg"/>
-    <br>AdminLTE
+    <img alt="adminlte" height=64px src="https://cdn.worldvectorlogo.com/logos/adminlte.svg"/>
   </tr>
+  
+  
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    <td>jQuery</td>
+    <td>Bootstrap</td>
+    <td>AdminLTE</td>
+  </tr>
+  
+  
   <tr>
     <td align="center">
       <img alt="php" width="64px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
