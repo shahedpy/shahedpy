@@ -23,8 +23,6 @@
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="php" width="64px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
       <br>Php
