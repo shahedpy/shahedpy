@@ -6,7 +6,7 @@ Hi, I'm <a href="https://wdshahed.w3spaces.com/">Shahed</a><br>
 Web & Android App Developer<br>
 High level experience in web & android app development knowledge, producing quality work.
 
-## My Tech Stack
+## Favorite Tech
 <table>
   <tr>
     <td align="center">
