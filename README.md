@@ -1,7 +1,4 @@
 # Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-[![](https://img.shields.io/badge/-@shahed-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/shahedmhridoy)
-[![](https://img.shields.io/badge/-@shahed-%23181717?style=flat-square&logo=github)](https://github.com/shahedmohammadhridoy)
-<br>
 Hi, I'm <a href="https://wdshahed.w3spaces.com/">Shahed</a><br>
 Web & Android App Developer<br>
 High level experience in web & android app development knowledge, producing quality work.
@@ -65,3 +62,5 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96">Android</td>
   </tr>
 </table>
+[![](https://img.shields.io/badge/-@shahed-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/shahedmhridoy)
+[![](https://img.shields.io/badge/-@shahed-%23181717?style=flat-square&logo=github)](https://github.com/shahedmohammadhridoy)
