@@ -62,3 +62,6 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96">Android</td>
   </tr>
 </table>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahedmohammadhridoy&langs_count=10&hide_border=true&theme=vision-friendly)](https://github.com/ShahedMohammadHridoy/github-readme-stats)
