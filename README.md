@@ -61,6 +61,9 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96">Java</td>
     <td align="center" width="96">Android</td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img alt="Excel" width=64px src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"></td>
+  </tr>
 </table>
 
 
