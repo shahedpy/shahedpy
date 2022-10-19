@@ -38,7 +38,7 @@ High level experience in web & android app development knowledge, producing qual
       <img alt="php" width="64px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
     </td>
     <td align="center" width="96">
-      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     </td>
     <td align="center" width="96">
       <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
