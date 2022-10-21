@@ -1,9 +1,10 @@
 # Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Shahed Mohammad Hridoy)](https://git.io/typing-svg)
 Hi, I'm <a href="https://wdshahed.w3spaces.com/">Shahed</a><br>
 Web & Android App Developer<br>
 High level experience in web & android app development knowledge, producing quality work.
 ** Connect With me **
+wdshahed.w3spaces.com
+
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
 <table>
