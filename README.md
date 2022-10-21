@@ -2,7 +2,8 @@
 Hi, I'm <a href="https://wdshahed.w3spaces.com/">Shahed</a><br>
 Web & Android App Developer<br>
 High level experience in web & android app development knowledge, producing quality work.
-** Connect With me **
+
+*** Connect With me ***
 wdshahed.w3spaces.com
 
 ## Favorite Tech
