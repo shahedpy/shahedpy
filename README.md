@@ -69,7 +69,7 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96"><img alt="Excel" width=64px src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"></td>
     <td align="center" width="96"><img alt="Word" width=64px src="https://cdn.worldvectorlogo.com/logos/word-1.svg"></td>
     <td align="center" width="96"><img alt="PowerPoint" width=64px src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg"></td>
-    <td align="center" width="96"><img alt="Access" width=64px src="https://cdn.worldvectorlogo.com/logos/microsoft-access.svg"></td>
+    <td align="center" width="96"><img alt="Access" width=64px src="https://cdn.worldvectorlogo.com/logos/access-1.svg"></td>
     <td align="center" width="96"><img alt="Outlook" width=64px src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg"></td>
     <td align="center" width="96"><img alt="Office" width=64px src="https://cdn.worldvectorlogo.com/logos/office-1.svg"></td>
   </tr>
