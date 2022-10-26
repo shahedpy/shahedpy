@@ -86,8 +86,8 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96"><img alt="C#" width=64px src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></td>
   </tr>
   <tr>
-    <td>C</td>
-    <td>C#</td>
+    <td align="center" width="96">C</td>
+    <td align="center" width="96">C#</td>
   </tr>
 </table>
 
