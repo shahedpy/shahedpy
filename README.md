@@ -66,31 +66,30 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96">Android</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img alt="Excel" width=64px src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"></td>
+    <td align="center" width="96"><img alt="C" width=64px src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></td>
+    <td align="center" width="96"><img alt="C#" width=64px src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></td>
+    <td align="center" width="96"><img alt="Postgre SQL" width=64px src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
+  </tr>
+  <tr>
+    <td align="center" width="96">C</td>
+    <td align="center" width="96">C#</td>
+    <td align="center" width="96">Postgre SQL</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><img alt="Word" width=64px src="https://cdn.worldvectorlogo.com/logos/word-1.svg"></td>
+    <td align="center" width="96"><img alt="Excel" width=64px src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"></td>
     <td align="center" width="96"><img alt="PowerPoint" width=64px src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg"></td>
     <td align="center" width="96"><img alt="Access" width=64px src="https://cdn.worldvectorlogo.com/logos/microsoft-access-1.svg"></td>
     <td align="center" width="96"><img alt="Outlook" width=64px src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg"></td>
     <td align="center" width="96"><img alt="Office" width=64px src="https://cdn.worldvectorlogo.com/logos/office-1.svg"></td>
   </tr>
   <tr>
-    <td align="center" width="96">Excel</td>
     <td align="center" width="96">Word</td>
+    <td align="center" width="96">Excel</td>
     <td align="center" width="96">PowerPoint</td>
     <td align="center" width="96">Access</td>
     <td align="center" width="96">Outlook</td>
     <td align="center" width="96">Office</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img alt="C" width=64px src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></td>
-    <td align="center" width="96"><img alt="C#" width=64px src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></td>
-    <td align="center" width="96"><img alt="Postgre SQL" width=64px src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
-    
-  </tr>
-  <tr>
-    <td align="center" width="96">C</td>
-    <td align="center" width="96">C#</td>
-    <td align="center" width="96">Postgre SQL</td>
   </tr>
 </table>
 
