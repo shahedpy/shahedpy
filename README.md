@@ -68,12 +68,12 @@ High level experience in web & android app development knowledge, producing qual
   <tr>
     <td align="center" width="96"><img alt="C" width=64px src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></td>
     <td align="center" width="96"><img alt="C#" width=64px src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></td>
-    <td align="center" width="96"><img alt="Postgre SQL" width=64px src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
+    <td align="center" width="96"><img alt="PostgreSQL" width=64px src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
   </tr>
   <tr>
     <td align="center" width="96">C</td>
     <td align="center" width="96">C#</td>
-    <td align="center" width="96">Postgres</td>
+    <td align="center" width="96">PostgreSQL</td>
   </tr>
   <tr>
     <td align="center" width="96"><img alt="Word" width=64px src="https://cdn.worldvectorlogo.com/logos/word-1.svg"></td>
