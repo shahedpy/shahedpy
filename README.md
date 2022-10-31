@@ -46,7 +46,6 @@ High level experience in web & android app development knowledge, producing qual
   </tr>
   <tr>
     <td align="center" width="96">Php</td>
-    
     <td align="center" width="96">Python</td>
     <td align="center" width="96">Django</td>
     <td align="center" width="96">Java</td>
