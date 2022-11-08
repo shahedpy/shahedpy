@@ -79,6 +79,14 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96">Outlook</td>
     <td align="center" width="96">Office</td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img alt="Photoshop" width=64px src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"></td>
+    <td align="center" width="96"><img alt="Illustrator" width=64px src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg"></td>
+  </tr>
+  <tr>
+    <td align="center" width="96">Phtoshop</td>
+    <td align="center" width="96">Illustrator</td>
+  </tr>
 </table>
 
 
