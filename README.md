@@ -1,5 +1,5 @@
 # Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-Hi, I'm <a href="https://wdshahed.w3spaces.com/">Shahed</a><br>
+Hi, I'm Shahed<br>
 Web & Android App Developer<br>
 High level experience in web & android app development knowledge, producing quality work.<br>
 
