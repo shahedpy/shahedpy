@@ -43,6 +43,7 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96"><img alt="java" height=64px src="https://cdn.worldvectorlogo.com/logos/java.svg"></td>
     <td align="center" width="96"><img alt="C" width=64px src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></td>
     <td align="center" width="96"><img alt="C#" width=64px src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></td>
+    <td align="center" width="96"><img alt="git" width=64px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></td>
   </tr>
   <tr>
     <td align="center" width="96">Php</td>
@@ -50,6 +51,7 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96">Java</td>
     <td align="center" width="96">C</td>
     <td align="center" width="96">C#</td>
+    <td align="center" width="96">git</td>
   </tr>
   <tr>
     <td align="center" width="96"><img alt="PostgreSQL" width=64px src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
