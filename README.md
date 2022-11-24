@@ -57,33 +57,33 @@ High level experience in web & android app development knowledge, producing qual
     <td align="center" width="96"><img alt="PostgreSQL" width=64px src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
     <td align="center" width="96"><img alt="mysql" height=64px src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></td>
     <td align="center" width="96"><img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg"></td>
-    <td align="center" width="96"><img alt="android" width=64px src="https://cdn.worldvectorlogo.com/logos/android-4.svg"></td>
     <td align="center" width="96"><img alt="Photoshop" width=64px src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"></td>
     <td align="center" width="96"><img alt="Illustrator" width=64px src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg"></td>
+    <td align="center" width="96"><img alt="canva" height=64px src="https://cdn.worldvectorlogo.com/logos/canva-1.svg"></td>
   </tr>
   <tr>
     <td align="center" width="96">PostgreSQL</td>
     <td align="center" width="96">MySQL</td>
     <td align="center" width="96">Django</td>
-    <td align="center" width="96">Android</td>
     <td align="center" width="96">Phtoshop</td>
     <td align="center" width="96">Illustrator</td>
+    <td align="center" width="96">Canva</td>
   </tr>
   <tr>
+    <td align="center" width="96"><img alt="android" width=64px src="https://cdn.worldvectorlogo.com/logos/android-4.svg"></td>
     <td align="center" width="96"><img alt="Word" width=64px src="https://cdn.worldvectorlogo.com/logos/word-1.svg"></td>
     <td align="center" width="96"><img alt="Excel" width=64px src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"></td>
     <td align="center" width="96"><img alt="PowerPoint" width=64px src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg"></td>
     <td align="center" width="96"><img alt="Access" width=64px src="https://cdn.worldvectorlogo.com/logos/microsoft-access-1.svg"></td>
     <td align="center" width="96"><img alt="Outlook" width=64px src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg"></td>
-    <td align="center" width="96"><img alt="Office" width=64px src="https://cdn.worldvectorlogo.com/logos/office-1.svg"></td>
   </tr>
   <tr>
+    <td align="center" width="96">Android</td>
     <td align="center" width="96">Word</td>
     <td align="center" width="96">Excel</td>
     <td align="center" width="96">PowerPoint</td>
     <td align="center" width="96">Access</td>
     <td align="center" width="96">Outlook</td>
-    <td align="center" width="96">Office</td>
   </tr>
 </table>
 
