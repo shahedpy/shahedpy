@@ -5,7 +5,7 @@ High level experience in web & android app development knowledge, producing qual
 
 #### How to reach me
 - 📫 &nbsp; shahedhridoy@gmail.com
-- 🌐 &nbsp; [wdshahed.w3spaces.com](https://wdshahed.w3spaces.com/)
+- 🌐 &nbsp; [shridoy.000webhostapp.com](https://shridoy.000webhostapp.com/)
 
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
