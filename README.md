@@ -89,5 +89,3 @@ High level experience in web & android app development knowledge, producing qual
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahedhridoy&langs_count=10&hide_border=false&theme=vision-friendly)](https://github.com/shahedhridoy/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahedhridoy)
