@@ -4,8 +4,9 @@ Web & Mobile Application Developer<br>
 High level experience in web & mobile app development knowledge, producing quality work.<br>
 
 #### How to reach me
-- 📫 &nbsp; shahedhridoy@gmail.com
 - 🌐 &nbsp; [shahed.com.bd](https://shahed.com.bd/)
+- 📫 &nbsp; shahedhridoy@gmail.com
+
 
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
