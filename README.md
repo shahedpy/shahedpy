@@ -5,7 +5,7 @@ High level experience in web & mobile app development knowledge, producing quali
 
 #### How to reach me
 - 📫 &nbsp; shahedhridoy@gmail.com
-- 🌐 &nbsp; [shridoy.000webhostapp.com](https://shridoy.000webhostapp.com/)
+- 🌐 &nbsp; [shahed.com.bd](https://shahed.com.bd/)
 
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
@@ -78,6 +78,7 @@ High level experience in web & mobile app development knowledge, producing quali
     <td align="center" width="96">Flutter</td>
   </tr>
   <tr>
+    <td align="center" width="96"><img alt="Windows" width=64px src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg"></td>
     <td align="center" width="96"><img alt="Word" width=64px src="https://cdn.worldvectorlogo.com/logos/word-1.svg"></td>
     <td align="center" width="96"><img alt="Excel" width=64px src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"></td>
     <td align="center" width="96"><img alt="PowerPoint" width=64px src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg"></td>
@@ -85,6 +86,7 @@ High level experience in web & mobile app development knowledge, producing quali
     <td align="center" width="96"><img alt="Outlook" width=64px src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg"></td>
   </tr>
   <tr>
+    <td align="center" width="96">Windows</td>
     <td align="center" width="96">Word</td>
     <td align="center" width="96">Excel</td>
     <td align="center" width="96">PowerPoint</td>
