@@ -72,11 +72,13 @@ High level experience in web & mobile app development knowledge, producing quali
   </tr>
   <tr>
     <td align="center" width="96"><img alt="android" width=64px src="https://cdn.worldvectorlogo.com/logos/android-4.svg"></td>
-    <td align="center" width="96"><img alt="flutter" width=64px src="https://cdn.worldvectorlogo.com/logos/flutter.svg"></td>    
+    <td align="center" width="96"><img alt="flutter" width=64px src="https://cdn.worldvectorlogo.com/logos/flutter.svg"></td>
+    <td align="center" width="96"><img alt="xampp" width=64px src="https://cdn.worldvectorlogo.com/logos/xampp.svg"></td>
   </tr>
   <tr>
     <td align="center" width="96">Android</td>
     <td align="center" width="96">Flutter</td>
+    <td align="center" width="96">Xampp</td>
   </tr>
   <tr>
     <td align="center" width="96"><img alt="Windows" width=64px src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg"></td>
