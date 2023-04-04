@@ -45,6 +45,7 @@ High level experience in web & mobile app development knowledge, producing quali
     <td align="center" width="96"><img alt="C" width=64px src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></td>
     <td align="center" width="96"><img alt="C#" width=64px src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></td>
     <td align="center" width="96"><img alt="git" width=64px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></td>
+    <td align="center" width="96"><img alt="vs code" width=64px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></td>
   </tr>
   <tr>
     <td align="center" width="96">Php</td>
@@ -53,6 +54,7 @@ High level experience in web & mobile app development knowledge, producing quali
     <td align="center" width="96">C</td>
     <td align="center" width="96">C#</td>
     <td align="center" width="96">git</td>
+    <td align="center" width="96">VS Code</td>
   </tr>
   <tr>
     <td align="center" width="96"><img alt="PostgreSQL" width=64px src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
