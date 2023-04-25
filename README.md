@@ -1,6 +1,6 @@
 # Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 Hi, I'm Shahed<br>
-Web & Mobile Application Developer<br>
+Web & Mobile Apps Developer<br>
 High level experience in web & mobile app development knowledge, producing quality work.<br>
 
 #### How to reach me
