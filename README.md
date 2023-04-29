@@ -76,6 +76,7 @@ High level experience in web & mobile app development knowledge, producing quali
     <td align="center" width="96"><img alt="xampp" width=64px src="https://cdn.worldvectorlogo.com/logos/xampp.svg"></td>
     <td align="center" width="96"><img alt="Ubuntu" width=64px src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></td>
     <td align="center" width="96"><img alt="vs code" width=64px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></td>
+    <td align="center" width="96"><img alt="json" width=64px src="https://cdn.worldvectorlogo.com/logos/json.svg"></td>
   </tr>
   <tr>
     <td align="center" width="96">Android</td>
@@ -83,6 +84,7 @@ High level experience in web & mobile app development knowledge, producing quali
     <td align="center" width="96">Xampp</td>
     <td align="center" width="96">Ubuntu</td>
     <td align="center" width="96">VS Code</td>
+    <td align="center" width="96">JSON</td>
   </tr>
   <tr>
     <td align="center" width="96"><img alt="Windows" width=64px src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg"></td>
