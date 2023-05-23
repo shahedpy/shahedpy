@@ -10,67 +10,194 @@ High level experience in web & mobile app development, producing quality work.
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
 
-<p align="center">
-  <img alt="html" height="64px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-  <img alt="css" height="64px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-  <img alt="javascript" height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-  <img alt="jquery" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img alt="bootstrap" height="64px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
-  <img alt="adminlte" width="64px" src="https://cdn.worldvectorlogo.com/logos/adminlte.svg"/>
-</p>
+<style>
+  .icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
 
-<p align="center">
-  HTML | CSS | JavaScript | jQuery | Bootstrap | AdminLTE
-</p>
+  .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+  }
 
-<p align="center">
-  <img alt="php" width="64px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
-  <img alt="python" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="java" height="64px" src="https://cdn.worldvectorlogo.com/logos/java.svg">
-  <img alt="C" width="64px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
-  <img alt="C#" width="64px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img alt="git" width="64px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-</p>
+  .icon img {
+    height: 64px;
+  }
 
-<p align="center">
-  Php | Python | Java | C | C# | Git
-</p>
+  .text {
+    margin-left: 12px;
+  }
+</style>
 
-<p align="center">
-  <img alt="PostgreSQL" width="64px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
-  <img alt="mysql" height="64px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
-  <img alt="django" height="64px" src="https://cdn.worldvectorlogo.com/logos/django.svg">
-  <img alt="Photoshop" width="64px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
-  <img alt="Illustrator" width="64px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg">
-  <img alt="canva" height="64px" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg">
-</p>
+<div class="icon-container">
+  <div class="icon">
+    <img alt="html" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+  </div>
+  <div class="text">HTML</div>
 
-<p align="center">
-  PostgreSQL | MySQL | Django | Photoshop | Illustrator | Canva
-</p>
+  <div class="icon">
+    <img alt="css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+  </div>
+  <div class="text">CSS</div>
 
-<p align="center">
-  <img alt="android" width="64px" src="https://cdn.worldvectorlogo.com/logos/android-4.svg">
-  <img alt="flutter" width="64px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg">
-  <img alt="xampp" width="64px" src="https://cdn.worldvectorlogo.com/logos/xampp.svg">
-  <img alt="Ubuntu" width="64px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
-  <img alt="vs code" width="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-  <img alt="json" width="64px" src="https://cdn.worldvectorlogo.com/logos/json.svg">
-</p>
+  <div class="icon">
+    <img alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+  </div>
+  <div class="text">JavaScript</div>
 
-<p align="center">
-  Android | Flutter | Xampp | Ubuntu | VS Code | JSON
-</p>
+  <div class="icon">
+    <img alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  </div>
+  <div class="text">jQuery</div>
 
-<p align="center">
-  <img alt="Windows" width="64px" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg">
-  <img alt="Word" width="64px" src="https://cdn.worldvectorlogo.com/logos/word-1.svg">
-  <img alt="Excel" width="64px" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg">
-  <img alt="PowerPoint" width="64px" src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg">
-  <img alt="Access" width="64px" src="https://cdn.worldvectorlogo.com/logos/microsoft-access-1.svg">
-  <img alt="Outlook" width="64px" src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg">
-</p>
+  <div class="icon">
+    <img alt="bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
+  </div>
+  <div class="text">Bootstrap</div>
 
-<p align="center">
-  Windows | Word | Excel | PowerPoint | Access | Outlook
-</p>
+  <div class="icon">
+    <img alt="adminlte" src="https://cdn.worldvectorlogo.com/logos/adminlte.svg">
+  </div>
+  <div class="text">AdminLTE</div>
+</div>
+
+<div class="icon-container">
+  <div class="icon">
+    <img alt="php" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
+  </div>
+  <div class="text">PHP</div>
+
+  <div class="icon">
+    <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  <div class="text">Python</div>
+
+  <div class="icon">
+    <img alt="java" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+  </div>
+  <div class="text">Java</div>
+
+  <div class="icon">
+    <img alt="C" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
+  </div>
+  <div class="text">C</div>
+
+  <div class="icon">
+    <img alt="C#" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  </div>
+  <div class="text">C#</div>
+
+  <div class="icon">
+    <img alt="git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
+  </div>
+  <div class="text">Git</div>
+</div>
+
+<div class="icon-container">
+  <div class="icon">
+    <img alt="PostgreSQL" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+  </div>
+  <div class="icon-container">
+  <div class="icon">
+    <img alt="PostgreSQL" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+  </div>
+  <div class="text">PostgreSQL</div>
+
+  <div class="icon">
+    <img alt="mysql" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
+  </div>
+  <div class="text">MySQL</div>
+
+  <div class="icon">
+    <img alt="django" src="https://cdn.worldvectorlogo.com/logos/django.svg">
+  </div>
+  <div class="text">Django</div>
+
+  <div class="icon">
+    <img alt="Photoshop" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
+  </div>
+  <div class="text">Photoshop</div>
+
+  <div class="icon">
+    <img alt="Illustrator" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg">
+  </div>
+  <div class="text">Illustrator</div>
+
+  <div class="icon">
+    <img alt="canva" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg">
+  </div>
+  <div class="text">Canva</div>
+</div>
+
+<div class="icon-container">
+  <div class="icon">
+    <img alt="android" src="https://cdn.worldvectorlogo.com/logos/android-4.svg">
+  </div>
+  <div class="text">Android</div>
+
+  <div class="icon">
+    <img alt="flutter" src="https://cdn.worldvectorlogo.com/logos/flutter.svg">
+  </div>
+  <div class="text">Flutter</div>
+
+  <div class="icon">
+    <img alt="xampp" src="https://cdn.worldvectorlogo.com/logos/xampp.svg">
+  </div>
+  <div class="text">Xampp</div>
+
+  <div class="icon">
+    <img alt="Ubuntu" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
+  </div>
+  <div class="text">Ubuntu</div>
+
+  <div class="icon">
+    <img alt="vs code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+  </div>
+  <div class="text">VS Code</div>
+
+  <div class="icon">
+    <img alt="json" src="https://cdn.worldvectorlogo.com/logos/json.svg">
+  </div>
+  <div class="text">JSON</div>
+</div>
+
+<div class="icon-container">
+  <div class="icon">
+    <img alt="Windows" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg">
+  </div>
+  <div class="text">Windows</div>
+
+  <div class="icon">
+    <img alt="Word" src="https://cdn.worldvectorlogo.com/logos/word-1.svg">
+  </div>
+  <div class="text">Word</div>
+
+  <div class="icon">
+    <img alt="Excel" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg">
+  </div>
+  <div class="text">Excel</div>
+
+<div class="icon">
+    <img alt="PowerPoint" src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg">
+  </div>
+  <div class="text">PowerPoint</div>
+
+  <div class="icon">
+    <img alt="Access" src="https://cdn.worldvectorlogo.com/logos/microsoft-access-1.svg">
+  </div>
+  <div class="text">Access</div>
+
+  <div class="icon">
+    <img alt="Outlook" src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg">
+  </div>
+  <div class="text">Outlook</div>
+</div>
