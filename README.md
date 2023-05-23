@@ -10,37 +10,9 @@ High level experience in web & mobile app development, producing quality work.
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
 
-<style>
-  .icon-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 16px;
-  }
-
-  .icon {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    background-color: #f2f2f2;
-  }
-
-  .icon img {
-    height: 64px;
-  }
-
-  .text {
-    margin-left: 12px;
-  }
-</style>
-
-<div class="icon-container">
+<div style="">
   <div class="icon">
-    <img alt="html" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img alt="html" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="24">
   </div>
   <div class="text">HTML</div>
 
