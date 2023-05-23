@@ -9,98 +9,24 @@ High level experience in web & mobile app development, producing quality work.
 
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
-
-<div style="">
-  <div class="icon">
-    <img alt="html" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="24">
-  </div>
-  <div class="text">HTML</div>
-
-  <div class="icon">
-    <img alt="css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-  </div>
-  <div class="text">CSS</div>
-
-  <div class="icon">
-    <img alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-  </div>
-  <div class="text">JavaScript</div>
-
-  <div class="icon">
-    <img alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  </div>
-  <div class="text">jQuery</div>
-
-  <div class="icon">
-    <img alt="bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
-  </div>
-  <div class="text">Bootstrap</div>
-
-  <div class="icon">
-    <img alt="adminlte" src="https://cdn.worldvectorlogo.com/logos/adminlte.svg">
-  </div>
-  <div class="text">AdminLTE</div>
-</div>
-
-<div class="icon-container">
-  <div class="icon">
-    <img alt="php" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
-  </div>
-  <div class="text">PHP</div>
-
-  <div class="icon">
-    <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-  <div class="text">Python</div>
-
-  <div class="icon">
-    <img alt="java" src="https://cdn.worldvectorlogo.com/logos/java.svg">
-  </div>
-  <div class="text">Java</div>
-
-  <div class="icon">
-    <img alt="C" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
-  </div>
-  <div class="text">C</div>
-
-  <div class="icon">
-    <img alt="C#" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  </div>
-  <div class="text">C#</div>
-
-  <div class="icon">
-    <img alt="git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-  </div>
-  <div class="text">Git</div>
-</div>
-
-<div class="icon-container">
-  <div class="icon">
-    <img alt="PostgreSQL" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
-  </div>
-  <div class="icon-container">
-  <div class="icon">
-    <img alt="PostgreSQL" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
-  </div>
-  <div class="text">PostgreSQL</div>
-
-  <div class="icon">
-    <img alt="mysql" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
-  </div>
-  <div class="text">MySQL</div>
-
-  <div class="icon">
-    <img alt="django" src="https://cdn.worldvectorlogo.com/logos/django.svg">
-  </div>
-  <div class="text">Django</div>
-
-  <div class="icon">
-    <img alt="Photoshop" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
-  </div>
-  <div class="text">Photoshop</div>
-
-  <div class="icon">
-    <img alt="Illustrator" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg">
+<img alt="html" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="24">
+<img alt="css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+<img alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+<img alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+<img alt="bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
+<img alt="adminlte" src="https://cdn.worldvectorlogo.com/logos/adminlte.svg">
+<img alt="php" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
+<img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img alt="java" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+<img alt="C" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
+<img alt="C#" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+<img alt="git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
+<img alt="PostgreSQL" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+<img alt="PostgreSQL" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+<img alt="mysql" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
+<img alt="django" src="https://cdn.worldvectorlogo.com/logos/django.svg">
+<img alt="Photoshop" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
+<img alt="Illustrator" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg">
   </div>
   <div class="text">Illustrator</div>
 
