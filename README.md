@@ -9,9 +9,16 @@ High level experience in web & mobile app development, producing quality work.
 
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
-<img alt="html" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="24">
-<img alt="css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="24">
-<img alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="24">
+<table>
+  <tr>
+    <td><img alt="html" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="24"></td>
+    <td><img alt="css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="24"></td>
+    <td><img alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="24"></td>
+  </tr>
+</table>
+
+
+
 <img alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="24">
 <img alt="bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="24">
 <img alt="adminlte" src="https://cdn.worldvectorlogo.com/logos/adminlte.svg" width="24">
