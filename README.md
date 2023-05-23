@@ -14,6 +14,25 @@ High level experience in web & mobile app development, producing quality work.
     <td><img alt="html" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="24"></td>
     <td><img alt="css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="24"></td>
     <td><img alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="24"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
