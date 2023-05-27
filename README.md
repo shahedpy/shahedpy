@@ -5,7 +5,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ## Skills
 - Programming languages: Python, Php, Java, Dart
-- Frameworks and libraries: Django, Flutter
+- Frameworks and libraries: Django, DRF, Flutter
 - Version control: Git
 - Databases: MySQL, PostgreSQL
 - Other relevant skills:  Microsoft Office, Graphics
