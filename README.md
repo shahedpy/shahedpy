@@ -13,6 +13,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 ## Experience
 - Tiger Park Limited - Software Engineer (Sep'22 - Present)
   - Develop and maintain web applications using django framework.
+  - Develop and maintain mobile applications using flutter framework.
   - Collaborated with team to implement user-friendly software.
 - Call & Solution - Android App Developer (Aug'17 - Jul'18)
   - Developed and maintained android applications Java.
