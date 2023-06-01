@@ -33,7 +33,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ## Contact Me
 - Email: shahed_hridoy@outlook.com
-- LinkedIn: [Shahed Mohammad Hridoy]: https://www.linkedin.com/in/shahedmohammadhridoy/
+- LinkedIn: [Shahed Mohammad Hridoy]:https://www.linkedin.com/in/shahedmohammadhridoy/
 - Portfolio: https://shahed.com.bd
 
 Feel free to reach out to me if you have any questions or opportunities to collaborate!
