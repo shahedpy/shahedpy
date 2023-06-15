@@ -20,9 +20,10 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ## Education
 - Diploma in Engineering
-  - Computer Science Technology
-  - Saic Institute of Management & Technology
-  - 2022
+  - Department: Computer Science Technology
+  - Board: Bangladesh Technical Education Board
+  - Institute: Saic Institute of Management & Technology
+  - Passing Year: 2022
 
 ## Projects
 - SIMT App
