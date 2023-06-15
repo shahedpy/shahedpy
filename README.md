@@ -19,8 +19,10 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   - Developed and maintained android applications Java.
 
 ## Education
-- Saic Institute of Management & Technology - Diploma in Engineering (Computer Science Technology), 2022
-  - Library Management System using PHP
+- Diploma in Engineering
+  - Computer Science Technology
+  - Saic Institute of Management & Technology
+  - 2022
 
 ## Projects
 - SIMT App
