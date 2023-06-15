@@ -27,8 +27,8 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ## Projects
 - SIMT App
-  - Mobile app for students and web app for college management
-  - Mobile app using Java and Web app using Php
+  - Web Application: Use by college management team, developed using php
+  - Mobile Application: Use by students, developed using Java
 
 ## Certifications
 - Computer Office Application, 2011
