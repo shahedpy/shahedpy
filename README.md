@@ -16,9 +16,11 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   - Develop and maintain mobile applications using flutter framework.
   - Collaborated with team to implement user-friendly software.
 - Call & Solution - Android App Developer (Aug'17 - Jul'18)
-  - Developed and maintained android applications Java.
+  - Developed and maintained android applications using Java.
 
 ## Education
+- Bsc in CSE
+  - Running
 - Diploma in Engineering
   - Department: Computer Science Technology
   - Board: Bangladesh Technical Education Board
