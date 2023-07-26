@@ -36,13 +36,13 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - Computer Office Application, 2011
   - Microsoft Office (Word, Excel, PowerPoint, Access)
 - SoloLearn
-  - HTML
-  - CSS
-  - JavaScript
-  - SQL
-  - Php
-  - Java
-  - Python
+  - [HTML]
+  - [CSS]
+  - [JavaScript]
+  - [SQL]
+  - [Php]
+  - [Java]
+  - [Python]
 
 ## Contact Me
 - Email: shahed_hridoy@outlook.com
