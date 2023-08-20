@@ -42,6 +42,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
     - [Introduction to Python](https://www.sololearn.com/certificates/CC-SKJMCB2W)
   - Web
     - [Responsive Web Design](https://www.sololearn.com/certificates/CT-FENBZSMY)
+    - [Web Development Fundamentals](https://www.sololearn.com/certificates/CT-MMSOSQ40)
     - [Web Development](https://www.sololearn.com/certificates/CC-ORBJNKAX)
     - [jQuery](https://www.sololearn.com/certificates/CT-FEOAV4LF)
     - [SQL](https://www.sololearn.com/certificates/CT-E9GFQQDD)
