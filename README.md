@@ -22,10 +22,10 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - Bsc in CSE
   - Running
 - Diploma in Engineering
-  - Department: Computer Science Technology
-  - Board: Bangladesh Technical Education Board
-  - Institute: Saic Institute of Management & Technology
-  - Passing Year: 2022
+  - **Department:** Computer Science Technology
+  - **Board:** Bangladesh Technical Education Board
+  - **Institute:** Saic Institute of Management & Technology
+  - **Passing Year:** 2022
 
 ## Projects
 - SIMT App
@@ -36,13 +36,16 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - Computer Office Application, 2011
   - Microsoft Office (Word, Excel, PowerPoint, Access)
 - SoloLearn
+  - Python
+    - [Python Core](https://www.sololearn.com/certificates/CT-V2FKXE48)
+    - [Python for Beginners](https://www.sololearn.com/certificates/CT-7MI1ULAV)
+    - [Introduction to Python](https://www.sololearn.com/certificates/CC-SKJMCB2W)
   - [HTML]
   - [CSS]
   - [JavaScript]
   - [SQL]
   - [Php]
   - [Java]
-  - [Python]
 
 ## Contact Me
 - Email: shahed_hridoy@outlook.com
