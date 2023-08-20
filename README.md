@@ -33,19 +33,28 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   - Mobile Application: Use by students, developed using Java
 
 ## Certifications
-### Computer Office Application, 2011
+- Computer Office Application, 2011
   - Microsoft Office (Word, Excel, PowerPoint, Access)
-### SoloLearn
-  #### Python
+- SoloLearn
+  - Python
     - [Python Core](https://www.sololearn.com/certificates/CT-V2FKXE48)
     - [Python for Beginners](https://www.sololearn.com/certificates/CT-7MI1ULAV)
     - [Introduction to Python](https://www.sololearn.com/certificates/CC-SKJMCB2W)
-  - [HTML]
-  - [CSS]
-  - [JavaScript]
-  - [SQL]
-  - [Php]
-  - [Java]
+  - Web
+    - [Responsive Web Design](https://www.sololearn.com/certificates/CT-FENBZSMY)
+    - [Web Development](https://www.sololearn.com/certificates/CC-ORBJNKAX)
+    - [jQuery](https://www.sololearn.com/certificates/CT-FEOAV4LF)
+    - [SQL](https://www.sololearn.com/certificates/CT-E9GFQQDD)
+    - [PHP](https://www.sololearn.com/certificates/CT-KD0KRM7O)
+    - [JavaScript](https://www.sololearn.com/certificates/CT-PWLF7IJE)
+    - [CSS](https://www.sololearn.com/certificates/CT-YB8NPQAP)
+    - [HTML](https://www.sololearn.com/certificates/CT-QMR3VV96)
+  - Programming
+    - [C](https://www.sololearn.com/certificates/CT-PLUI39UK)
+    - [C#](https://www.sololearn.com/certificates/CT-NCJ3FBOS)
+    - [Java](https://www.sololearn.com/certificates/CT-J3U8CI8K)
+  - Technology
+    - [Tech for Everyone](https://www.sololearn.com/certificates/CC-TF8D7MMJ)
 
 ## Contact Me
 - Email: shahed_hridoy@outlook.com
