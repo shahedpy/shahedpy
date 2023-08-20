@@ -33,10 +33,10 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   - Mobile Application: Use by students, developed using Java
 
 ## Certifications
-- Computer Office Application, 2011
+### Computer Office Application, 2011
   - Microsoft Office (Word, Excel, PowerPoint, Access)
-- SoloLearn
-  - Python
+### SoloLearn
+  #### Python
     - [Python Core](https://www.sololearn.com/certificates/CT-V2FKXE48)
     - [Python for Beginners](https://www.sololearn.com/certificates/CT-7MI1ULAV)
     - [Introduction to Python](https://www.sololearn.com/certificates/CC-SKJMCB2W)
