@@ -44,6 +44,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
     - [Responsive Web Design](https://www.sololearn.com/certificates/CT-FENBZSMY)
     - [Web Development Fundamentals](https://www.sololearn.com/certificates/CT-MMSOSQ40)
     - [Web Development](https://www.sololearn.com/certificates/CC-ORBJNKAX)
+    - [Coding for Marketers](https://www.sololearn.com/certificates/CC-9WOHIYKC)
     - [jQuery](https://www.sololearn.com/certificates/CT-FEOAV4LF)
     - [SQL](https://www.sololearn.com/certificates/CT-E9GFQQDD)
     - [PHP](https://www.sololearn.com/certificates/CT-KD0KRM7O)
