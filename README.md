@@ -19,12 +19,13 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   - Developed and maintained android applications using Java.
 
 ## Education
-- Bsc in CSE
+- Bsc Engineering in CSE
   - Running
+  - **Institute:** Bangladesh University of Business & Technology (BUBT)
 - Diploma in Engineering
   - **Department:** Computer Science Technology
   - **Board:** Bangladesh Technical Education Board
-  - **Institute:** Saic Institute of Management & Technology
+  - **Institute:** Saic Institute of Management & Technology (SIMT)
   - **Passing Year:** 2022
 
 ## Projects
