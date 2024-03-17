@@ -8,7 +8,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - Frameworks and libraries: Django, DRF, Flutter
 - Version control: Git
 - Databases: MySQL, PostgreSQL
-- Other relevant skills: Server Management, AWS
+- Other relevant skills: Linux Server Management, AWS
 
 ## Experience
 - Tiger Park Limited - Software Engineer (Sep'22 - Present)
