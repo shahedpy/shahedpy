@@ -20,17 +20,11 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   - Developed and maintained android applications using Java.
 
 ## Education
-- Bsc Engineering in CSE
-  - Running
-  - **Institute:** Bangladesh University of Business & Technology (BUBT)
-- Diploma in Engineering
-  - **Department:** Computer Science Technology
-  - **Board:** Bangladesh Technical Education Board
-  - **Institute:** Saic Institute of Management & Technology (SIMT)
-  - **Passing Year:** 2022
+- Bsc Engineering in CSE (Running)
+- Diploma in Engineering (Computer Science Technology)
 
 ## Contact Me
-- Email: shahed_hridoy@outlook.com
+- Email: [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)
 - LinkedIn: [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
 
