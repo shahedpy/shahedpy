@@ -8,59 +8,23 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - Frameworks and libraries: Django, DRF, Flutter
 - Version control: Git
 - Databases: MySQL, PostgreSQL
-- Other relevant skills:  Microsoft Office, Graphics
+- Other relevant skills: Linux Server Management, AWS
 
 ## Experience
 - Tiger Park Limited - Software Engineer (Sep'22 - Present)
   - Develop and maintain web applications using django framework.
   - Develop and maintain mobile applications using flutter framework.
+  - Manage and administer CentOS servers, including configuration, maintenance, and troubleshooting.
   - Collaborated with team to implement user-friendly software.
 - Call & Solution - Android App Developer (Aug'17 - Jul'18)
   - Developed and maintained android applications using Java.
 
 ## Education
-- Bsc Engineering in CSE
-  - Running
-  - **Institute:** Bangladesh University of Business & Technology (BUBT)
-- Diploma in Engineering
-  - **Department:** Computer Science Technology
-  - **Board:** Bangladesh Technical Education Board
-  - **Institute:** Saic Institute of Management & Technology (SIMT)
-  - **Passing Year:** 2022
-
-## Projects
-- SIMT App
-  - Web Application: Use by college management team, developed using php
-  - Mobile Application: Use by students, developed using Java
-
-## Certifications
-- Computer Office Application, 2011
-  - Microsoft Office (Word, Excel, PowerPoint, Access)
-- SoloLearn
-  - Python
-    - [Python Core](https://www.sololearn.com/certificates/CT-V2FKXE48)
-    - [Python for Beginners](https://www.sololearn.com/certificates/CT-7MI1ULAV)
-    - [Introduction to Python](https://www.sololearn.com/certificates/CC-SKJMCB2W)
-  - Web
-    - [Responsive Web Design](https://www.sololearn.com/certificates/CT-FENBZSMY)
-    - [Web Development Fundamentals](https://www.sololearn.com/certificates/CT-MMSOSQ40)
-    - [Web Development](https://www.sololearn.com/certificates/CC-ORBJNKAX)
-    - [Coding for Marketers](https://www.sololearn.com/certificates/CC-9WOHIYKC)
-    - [jQuery](https://www.sololearn.com/certificates/CT-FEOAV4LF)
-    - [SQL](https://www.sololearn.com/certificates/CT-E9GFQQDD)
-    - [PHP](https://www.sololearn.com/certificates/CT-KD0KRM7O)
-    - [JavaScript](https://www.sololearn.com/certificates/CT-PWLF7IJE)
-    - [CSS](https://www.sololearn.com/certificates/CT-YB8NPQAP)
-    - [HTML](https://www.sololearn.com/certificates/CT-QMR3VV96)
-  - Programming
-    - [C](https://www.sololearn.com/certificates/CT-PLUI39UK)
-    - [C#](https://www.sololearn.com/certificates/CT-NCJ3FBOS)
-    - [Java](https://www.sololearn.com/certificates/CT-J3U8CI8K)
-  - Technology
-    - [Tech for Everyone](https://www.sololearn.com/certificates/CC-TF8D7MMJ)
+- Bsc Engineering in CSE (Running)
+- Diploma in Engineering (Computer Science Technology)
 
 ## Contact Me
-- Email: shahed_hridoy@outlook.com
+- Email: [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)
 - LinkedIn: [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
 
