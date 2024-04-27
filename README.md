@@ -29,3 +29,5 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
 
 Feel free to reach out to me if you have any questions or opportunities to collaborate!
+
+<img width="50px" height="50px" src="https://worldvectorlogo.com/download/django.svg">
