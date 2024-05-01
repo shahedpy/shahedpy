@@ -4,7 +4,7 @@
 I'm a passionate and experienced Software Engineer with a strong background in web and mobile app development. I enjoy working on challenging projects and solving complex problems.
 
 ## Skills
-- Programming languages: Python, Php, Java, Dart
+- Programming languages: Python, Dart
 - Frameworks and libraries: Django, DRF, Flutter
 - Version control: Git
 - Databases: MySQL, PostgreSQL
