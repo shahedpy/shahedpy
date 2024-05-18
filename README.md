@@ -42,4 +42,6 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" title="Nginx"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySql"/>
+  <img width="12" />
 </div>
