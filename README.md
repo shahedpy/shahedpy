@@ -29,9 +29,9 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C"/>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="django"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="C#" />
   <img width="12" />
@@ -40,7 +40,5 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
   <img width="12" />
 </div>
