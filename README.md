@@ -28,8 +28,6 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - LinkedIn: [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
 
-
-<img width="50px" height="50px" src="https://worldvectorlogo.com/download/django.svg">
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C"/>
   <img width="12" />
