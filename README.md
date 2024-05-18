@@ -44,4 +44,5 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySql"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="Linux"/>
 </div>
