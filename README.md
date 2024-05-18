@@ -15,7 +15,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ### Databases
 MySQL, PostgreSQL
-<img src="https://skillicons.dev/icons?i=py,django,html,css,js,nginx,mysql,linux" height="40" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
 
 ### Other relevant skills
 Linux Server Management, AWS
