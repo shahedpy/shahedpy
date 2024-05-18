@@ -30,7 +30,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ### Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
+  <img src="https://skillicons.dev/icons?i=py,django" height="40" alt="python logo" title="Python" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="django"/>
   <img width="12" />
