@@ -11,8 +11,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 <img src="https://skillicons.dev/icons?i=django,flutter" height="40" />
 
 ### Version control
-Git
-<img src="https://skillicons.dev/icons?i=py,django,html,css,js,nginx,mysql,linux" height="40" />
+<img src="https://skillicons.dev/icons?i=git" height="40" />
 
 ### Databases
 MySQL, PostgreSQL
