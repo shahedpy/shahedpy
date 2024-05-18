@@ -28,12 +28,11 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - LinkedIn: [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
 
+### Programming Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="django"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="C#" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML" />
   <img width="12" />
