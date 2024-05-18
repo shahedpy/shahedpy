@@ -40,4 +40,6 @@ I'm a passionate and experienced Software Engineer with a strong background in w
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" title="Nginx"/>
+  <img width="12" />
 </div>
