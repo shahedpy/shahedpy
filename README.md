@@ -4,11 +4,20 @@
 I'm a passionate and experienced Software Engineer with a strong background in web and mobile app development. I enjoy working on challenging projects and solving complex problems.
 
 ## Skills
-- Programming languages: Python, Dart
-- Frameworks and libraries: Django, DRF, Flutter
-- Version control: Git
-- Databases: MySQL, PostgreSQL
-- Other relevant skills: Linux Server Management, AWS
+### Programming languages
+<img src="https://skillicons.dev/icons?i=py,dart" height="40" />
+### Frameworks and libraries
+Django, DRF, Flutter
+<img src="https://skillicons.dev/icons?i=py,django,html,css,js,nginx,mysql,linux" height="40" />
+### Version control
+Git
+<img src="https://skillicons.dev/icons?i=py,django,html,css,js,nginx,mysql,linux" height="40" />
+### Databases
+MySQL, PostgreSQL
+<img src="https://skillicons.dev/icons?i=py,django,html,css,js,nginx,mysql,linux" height="40" />
+### Other relevant skills
+Linux Server Management, AWS
+<img src="https://skillicons.dev/icons?i=py,django,html,css,js,nginx,mysql,linux" height="40" />
 
 ## Experience
 - Tiger Park Limited - Software Engineer (Sep'22 - Present)
@@ -27,6 +36,3 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - Email: [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)
 - LinkedIn: [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
-
-### Skills
-<img src="https://skillicons.dev/icons?i=py,django,html,css,js,nginx,mysql,linux" height="40" />
