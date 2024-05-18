@@ -17,8 +17,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
 
 ### Other relevant skills
-Linux Server Management, AWS  
-<img src="https://skillicons.dev/icons?i=nginx" height="40" />
+<img src="https://skillicons.dev/icons?i=aws,nginx" height="40" />
 
 ## Experience
 - Tiger Park Limited - Software Engineer (Sep'22 - Present)
