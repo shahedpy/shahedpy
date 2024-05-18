@@ -28,21 +28,5 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - LinkedIn: [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
 
-### Programming Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,django" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="django"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" title="Nginx"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySql"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="Linux"/>
-</div>
+### Skills
+<img src="https://skillicons.dev/icons?i=py,django,html,css,js,nginx,mysql,linux" height="40" />
