@@ -28,6 +28,23 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - LinkedIn: [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
 
-Feel free to reach out to me if you have any questions or opportunities to collaborate!
 
 <img width="50px" height="50px" src="https://worldvectorlogo.com/download/django.svg">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="C#" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
+  <img width="12" />
+</div>
