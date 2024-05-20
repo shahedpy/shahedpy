@@ -24,6 +24,6 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 - Diploma in Engineering (Computer Science Technology)
 
 ## Contact Me
-- Email: [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)
-- <img src="https://skillicons.dev/icons?i=linkedin" height="12" /> [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
+<img src="https://skillicons.dev/icons?i=mail" height="16" /> [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)
+<img src="https://skillicons.dev/icons?i=linkedin" height="16" /> [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 - Portfolio: [shahed.com.bd](https://shahed.com.bd)
