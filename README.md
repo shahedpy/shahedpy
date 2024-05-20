@@ -26,4 +26,4 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 ## Contact Me
 <img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" height="16" />  [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)  
 <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-internet-explorer-mouse-pointer.svg" />  [shahed.com.bd](https://shahed.com.bd)
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-internet-explorer-mouse-pointer.svg" height="16" />  [shahed.com.bd](https://shahed.com.bd)
