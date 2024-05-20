@@ -4,19 +4,10 @@
 I'm a passionate and experienced Software Engineer with a strong background in web and mobile app development. I enjoy working on challenging projects and solving complex problems.
 
 ## Skills
-### Programming languages
 <img src="https://skillicons.dev/icons?i=py,dart,c,cpp" height="40" />
-
-### Frameworks and libraries
 <img src="https://skillicons.dev/icons?i=django,flutter" height="40" />
-
-### Version control
 <img src="https://skillicons.dev/icons?i=git" height="40" />
-
-### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
-
-### Other relevant skills
 <img src="https://skillicons.dev/icons?i=aws,nginx" height="40" />
 
 ## Experience
