@@ -10,6 +10,11 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
 <img src="https://skillicons.dev/icons?i=aws,nginx" height="40" />
 
+## I follow
+- DRY
+- SOLID
+
+
 ## Experience
 - Tiger Park Limited - Software Engineer (Sep'22 - Present)
   - Develop and maintain web applications using django framework.
