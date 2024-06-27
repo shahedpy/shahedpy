@@ -13,6 +13,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 ## I follow
 - DRY
 - SOLID
+- Clean Code
 
 
 ## Experience
