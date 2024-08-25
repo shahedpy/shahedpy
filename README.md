@@ -6,7 +6,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 ## Skills
 <img src="https://skillicons.dev/icons?i=py,dart,c,cpp,java" height="40" />
 <img src="https://skillicons.dev/icons?i=django,flutter,angular" height="40" />
-<img src="https://skillicons.dev/icons?i=git" height="40" />
+<img src="https://skillicons.dev/icons?i=git,github" height="40" />
 <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
 <img src="https://skillicons.dev/icons?i=aws,nginx" height="40" />
 
