@@ -6,8 +6,6 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 ## Skills
 <img src="https://skillicons.dev/icons?i=py" height="40" /> <img src="https://skillicons.dev/icons?i=dart" height="40" /> <img src="https://skillicons.dev/icons?i=c" height="40" /> <img src="https://skillicons.dev/icons?i=cpp" height="40" /> <img src="https://skillicons.dev/icons?i=java" height="40" /> <img src="https://skillicons.dev/icons?i=django" height="40" /> <img src="https://skillicons.dev/icons?i=flutter" height="40" /> <img src="https://skillicons.dev/icons?i=angular" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" /> <img src="https://skillicons.dev/icons?i=mysql" height="40" /> <img src="https://skillicons.dev/icons?i=aws" height="40" /> <img src="https://skillicons.dev/icons?i=nginx" height="40" />
 
-<img src="https://skillicons.dev/icons?i=py,dart,c,cpp,java,django,i,angular,git,github,postgres,mysql,aws,nginx" height="40" />
-
 ## Professional Principles
 ### DRY (Don't Repeat Yourself)
 I ensure that my code is modular and reusable, reducing redundancy and improving maintainability.
