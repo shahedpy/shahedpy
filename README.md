@@ -4,7 +4,7 @@
 I'm a passionate and experienced Software Engineer with a strong background in web and mobile app development. I enjoy working on challenging projects and solving complex problems.
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=py,dart,c,cpp,java" height="40" />
+<img src="https://skillicons.dev/icons?i=py,dart,c,cpp,java" height="40" /><img src="https://skillicons.dev/icons?i=py,dart,c,cpp,java" height="40" />
 <img src="https://skillicons.dev/icons?i=django,flutter,angular" height="40" />
 <img src="https://skillicons.dev/icons?i=git,github" height="40" />
 <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
