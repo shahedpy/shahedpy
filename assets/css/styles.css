@@ -503,30 +503,24 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
+.skills__html_css_js {
   width: 90%;
 }
 
-.skills__css {
-  width: 80%;
-}
-
-.skills__js {
-  width: 60%;
-}
 
 .skills__bs {
-  width: 85%;
+  width: 90%;
+}
+.skills__angular {
+  width: 70%;
 }
 
 .skills__php {
   width: 80%;
 }
-
-.skills__node {
-  width: 70%;
+.skills__fast_api {
+  width: 65%;
 }
-
 .skills__firebase {
   width: 90%;
 }
@@ -534,21 +528,32 @@ img {
 .skills__django {
   width: 80%;
 }
-
+.skills__drf {
+  width: 80%;
+}
 .skills__python {
   width: 60%;
 }
+.skills__postgresql {
+  width: 70%;
+}
 
-.skills__illustrator {
+.skills__flutter {
   width: 75%
 }
 
-.skills__photoshop {
+.skills__android {
   width: 80%;
 }
 
-.skills__canva {
-  width: 95%;
+.skills__centos {
+  width: 70%;
+}
+.skills__aws {
+  width: 65%;
+}
+.skills__nginx {
+  width: 70%;
 }
 
 .skills__close .skills__list {
