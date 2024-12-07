@@ -5,9 +5,9 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
-|||
-|------------------|----------------------------------------------------------|
-| **Frontend:**    | HTML5, CSS3, JavaScript, Bootstrap, Angular |
+| Tech             |                                                                    |
+|------------------|----------------------------------------------------------------------------------------|
+| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" height="40" /> |
 | **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django" height="40" /> |
 | **Mobile:**      |Flutter, Java (Android), Dart |
 | **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" /> |
