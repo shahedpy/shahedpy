@@ -5,12 +5,12 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ## My Tech Stack
 I specialize in a range of tools and technologies, including:
-**Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Angular
-**Backend:** Python, Django, DRF, FastAPI
-**Mobile:** Flutter, Java (Android), Dart
-**Databases:** PostgreSQL, MySQL
-**DevOps:** Nginx, AWS
-**Other Tools:** Git, REST APIs
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Angular
+- **Backend:** Python, Django, DRF, FastAPI
+- **Mobile:** Flutter, Java (Android), Dart
+- **Databases:** PostgreSQL, MySQL
+- **DevOps:** Nginx, AWS
+- **Other Tools:** Git, REST APIs
 
 <img src="https://skillicons.dev/icons?i=nginx" height="40" /> <img src="https://skillicons.dev/icons?i=py,django" height="40" /> <img src="https://skillicons.dev/icons?i=dart,flutter" height="40" /> <img src="https://skillicons.dev/icons?i=angular" height="40" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" /> 
 <img src="https://skillicons.dev/icons?i=html,css,js" height="40" /> <img src="https://skillicons.dev/icons?i=java" height="40" />  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" /> <img src="https://skillicons.dev/icons?i=mysql" height="40" /> <img src="https://skillicons.dev/icons?i=aws" height="40" /> <img src="https://skillicons.dev/icons?i=bash" height="40" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> <img src="https://skillicons.dev/icons?i=fastapi" height="40" /> <img src="https://skillicons.dev/icons?i=jquery" height="40" /> <img src="https://skillicons.dev/icons?i=linux" height="40" /> <img src="https://skillicons.dev/icons?i=md" height="40" /> <img src="https://skillicons.dev/icons?i=postman" height="40" /> <img src="https://skillicons.dev/icons?i=ubuntu" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" /> 
