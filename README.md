@@ -52,6 +52,6 @@ I participate in and advocate for regular code reviews. This practice not only i
 - 🥈 Skill Competition: Secured 2nd prize for an innovative project showcasing practical solutions in software engineering.
 
 ## 📫 Contact Me
-- <img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" height="16" />  [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)  
+- 📧 [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)  
 - <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)  
-- <img src="https://cdn.worldvectorlogo.com/logos/microsoft-internet-explorer-mouse-pointer.svg" height="16" />  [shahed.com.bd](https://shahed.com.bd)
+- 🌐 [shahed.com.bd](https://shahed.com.bd)
