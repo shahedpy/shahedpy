@@ -32,21 +32,26 @@ I follow Clean Code practices to ensure my code is easy to read, understand, and
 ### Code Review
 I participate in and advocate for regular code reviews. This practice not only improves code quality but also fosters knowledge sharing and collaboration within the team.
 
+## 💼 Experience
+### Tiger Park Limited
+**Software Engineer** *(Sep'22 - Present)*
+- Develop and maintain scalable applications.
+- Manage CentOS servers, including configuration, deployment, and troubleshooting.
+- Collaborated with team to architect software, streamlining operations.
 
-## Experience
-- Tiger Park Limited - Software Engineer (Sep'22 - Present)
-  - Develop and maintain web applications using django framework.
-  - Develop and maintain mobile applications using flutter framework.
-  - Manage and administer CentOS servers, including configuration, maintenance, and troubleshooting.
-  - Collaborated with team to implement user-friendly software.
-- Call & Solution - Android App Developer (Aug'17 - Jul'18)
-  - Developed and maintained android applications using Java.
+### Call & Solution
+**Android App Developer** *(Aug'17 - Jul'18)*
+- Designed and developed Android applications using Java.
+- Delivered solutions that enhanced user engagement and application performance.
 
-## Education
-- Bsc Engineering in CSE (Running)
-- Diploma in Engineering (Computer Science Technology)
+## 🎓 Education
+- BSc in Computer Science and Engineering *(Ongoing)*
+- Diploma in Engineering (Computer Technology)
 
-## Contact Me
-<img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" height="16" />  [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)  
-<img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)  
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-internet-explorer-mouse-pointer.svg" height="16" />  [shahed.com.bd](https://shahed.com.bd)
+## 🏆 Achievements
+- 🥈 Skill Competition: Secured 2nd prize for an innovative project showcasing practical solutions in software engineering.
+
+## 📫 Contact Me
+- <img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" height="16" />  [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)  
+- <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)  
+- <img src="https://cdn.worldvectorlogo.com/logos/microsoft-internet-explorer-mouse-pointer.svg" height="16" />  [shahed.com.bd](https://shahed.com.bd)
