@@ -17,7 +17,7 @@ I specialize in a range of tools and technologies, including:
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
-## Professional Principles
+## 🌟 Professional Principles
 ### DRY (Don't Repeat Yourself)
 I ensure that my code is modular and reusable, reducing redundancy and improving maintainability.
 ### SOLID Principles
