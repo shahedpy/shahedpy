@@ -5,7 +5,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
-| Tech             |                                                                                               |
+| Tech Area        | Tools & Technologies                                                                          |
 |------------------|-----------------------------------------------------------------------------------------------|
 | **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular" height="40" /> |
 | **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" />                    |
