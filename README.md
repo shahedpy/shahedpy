@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate and experienced Software Engineer with a strong background in web and mobile app development. I enjoy working on challenging projects and solving complex problems.
 
-## My Tech Stack
+## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Angular
 - **Backend:** Python, Django, DRF, FastAPI
@@ -14,6 +14,8 @@ I specialize in a range of tools and technologies, including:
 
 <img src="https://skillicons.dev/icons?i=nginx" height="40" /> <img src="https://skillicons.dev/icons?i=py,django" height="40" /> <img src="https://skillicons.dev/icons?i=dart,flutter" height="40" /> <img src="https://skillicons.dev/icons?i=angular" height="40" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" /> 
 <img src="https://skillicons.dev/icons?i=html,css,js" height="40" /> <img src="https://skillicons.dev/icons?i=java" height="40" />  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" /> <img src="https://skillicons.dev/icons?i=mysql" height="40" /> <img src="https://skillicons.dev/icons?i=aws" height="40" /> <img src="https://skillicons.dev/icons?i=bash" height="40" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> <img src="https://skillicons.dev/icons?i=fastapi" height="40" /> <img src="https://skillicons.dev/icons?i=jquery" height="40" /> <img src="https://skillicons.dev/icons?i=linux" height="40" /> <img src="https://skillicons.dev/icons?i=md" height="40" /> <img src="https://skillicons.dev/icons?i=postman" height="40" /> <img src="https://skillicons.dev/icons?i=ubuntu" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" /> 
+
+I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
 ## Professional Principles
 ### DRY (Don't Repeat Yourself)
