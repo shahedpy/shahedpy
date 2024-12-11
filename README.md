@@ -1,6 +1,4 @@
-<img width=100% title="Shahed" alt="Shahed" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-# Hello, I'm Shahed 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ## About Me
 I'm a passionate and experienced Software Engineer with a strong background in web and mobile app development. I enjoy working on challenging projects and solving complex problems.
