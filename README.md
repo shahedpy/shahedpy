@@ -54,3 +54,5 @@ I participate in and advocate for regular code reviews. This practice not only i
 - 📧 [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)  
 - <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)  
 - 🌐 [shahed.com.bd](https://shahed.com.bd)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
