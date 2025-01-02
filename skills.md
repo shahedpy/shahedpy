@@ -1,7 +1,7 @@
 # Skills
 ## django
-- model
-- rest_framework
+- model architecting
+- drf
 - pwa
 
 ## DevOPS
@@ -9,4 +9,6 @@
 - lightsail
 - EC2
 - S3
+  - Auto DB backup
+  - Media sync
 - route53
