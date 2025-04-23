@@ -7,7 +7,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 I specialize in a range of tools and technologies, including:
 | Tech Area        | Tools & Technologies                                                                                    |
 |------------------|---------------------------------------------------------------------------------------------------------|
-| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular" height="40" /> Streamlit |
+| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular" height="40" /> `Streamlit` `Jupyter Notebook` |
 | **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" />                    |
 | **Mobile:**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio" height="40" />      |
 | **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />                       |
