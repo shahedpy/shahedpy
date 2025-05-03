@@ -7,7 +7,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 I specialize in a range of tools and technologies, including:
 | Tech Area        | Tools & Technologies                                                                                    |
 |------------------|---------------------------------------------------------------------------------------------------------|
-| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular" height="40" /> ![streamlit](https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true) `Jupyter Notebook` |
+| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular" height="40" /> ![streamlit](https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true) ![`Jupyter Notebook`](https://github.com/shahedpy/shahedpy/blob/main/assets/icons/jupyter.svg?raw=true) |
 | **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" />                    |
 | **Mobile:**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio" height="40" />      |
 | **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />                       |
