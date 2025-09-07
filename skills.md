@@ -12,3 +12,7 @@
   - Auto DB backup
   - Media sync
 - route53
+
+## js library
+- chart.js
+- leaflet
