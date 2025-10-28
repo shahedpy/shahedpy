@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Shahed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-## About Me
+## Summary
 Passionate and experienced **Software Engineer** specializing in web and mobile application development. Proficient in backend systems using **Django** and modern frontend frameworks like Flutter and Angular. Committed to clean, maintainable, and scalable code following **DRY**, **SOLID**, and **Clean Code** principles.
 
 ## 🛠 My Tech Stack
