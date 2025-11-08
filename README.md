@@ -7,12 +7,12 @@ Passionate and experienced **Software Engineer** specializing in web and mobile 
 I specialize in a range of tools and technologies, including:
 | Tech Area        | Tools & Technologies                                                                                    |
 |------------------|---------------------------------------------------------------------------------------------------------|
-| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular" height="40" /> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true" height="40"> |
-| **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" />                    |
-| **Mobile:**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio" height="40" />      |
-| **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" height="40" />                       |
-| **DevOps:**      | <img src="https://skillicons.dev/icons?i=nginx,aws,bash,linux,ubuntu,docker" height="40" />          |
-| **Other Tools:** | <img src="https://skillicons.dev/icons?i=git,github,md,postman,vscode" height="40" /> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/jupyter.svg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/leaflet_js.jpg?raw=true" height="40">|
+| **Frontend**    | <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular" height="40" /> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true" height="40"> |
+| **Backend**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" />                    |
+| **Mobile**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio" height="40" />      |
+| **Databases**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" height="40" />                       |
+| **DevOps**      | <img src="https://skillicons.dev/icons?i=nginx,aws,bash,linux,ubuntu,docker" height="40" />          |
+| **Other Tools** | <img src="https://skillicons.dev/icons?i=git,github,md,postman,vscode" height="40" /> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/jupyter.svg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/leaflet_js.jpg?raw=true" height="40">|
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
