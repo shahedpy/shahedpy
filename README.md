@@ -5,10 +5,9 @@ Passionate and experienced **Software Engineer** specializing in web and mobile 
 
 ## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
-| Tech Area        | Tools & Technologies                                                                                    |
-|------------------|---------------------------------------------------------------------------------------------------------|
-| **Frontend**    | <img src="https://skillicons.dev/icons?i=angular" height="40" /> |
-| **Backend**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" />                    |
+| Tech Area       | Tools & Technologies                                                                                    |
+|-----------------|---------------------------------------------------------------------------------------------------------|
+| **Web**         | <img src="https://skillicons.dev/icons?i=angular" height="40" /> <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" />                    |
 | **Mobile**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio" height="40" />      |
 | **Databases**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" height="40" />                       |
 | **DevOps**      | <img src="https://skillicons.dev/icons?i=nginx,aws,docker" height="40" />          |
