@@ -12,7 +12,7 @@ I specialize in a range of tools and technologies, including:
 | **Mobile**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,androidstudio&theme=light" />      |
 | **Databases**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light" />                       |
 | **DevOps**      | <img src="https://skillicons.dev/icons?i=nginx,aws,docker&theme=light" />          |
-| **Other Tools** | <img src="https://skillicons.dev/icons?i=latex,git&theme=light" /> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/jupyter.svg?raw=true" height="40"><br/> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/leaflet_js.jpg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true" height="40" >|
+| **Other Tools** | <img src="https://skillicons.dev/icons?i=latex,git&theme=light" /> <div style="background-color: white; border-radius: 10px;"><img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/jupyter.svg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/leaflet_js.jpg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true" height="40" >|
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
