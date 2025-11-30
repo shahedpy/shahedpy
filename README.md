@@ -10,24 +10,29 @@ I specialize in a range of tools and technologies, including:
 | **Frontend**    | <img src="https://skillicons.dev/icons?i=js,ts,angular&theme=light" height="40" />                          |
 | **Backend**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi&theme=light" height="40" />                      |
 | **Mobile**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,androidstudio&theme=light" height="40" /> |
-| **Databases**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light" height="40" />                |
+| **Databases**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light" height="40" /> (PostGIS)      |
 | **DevOps**      | <img src="https://skillicons.dev/icons?i=nginx,aws,docker&theme=light" height="40" />                       |
 | **Other Tools** | <img src="https://skillicons.dev/icons?i=latex,git&theme=light" height="40" /> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/jupyter.svg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/leaflet_js.jpg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true" height="40" >|
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
+
 ## 🌍 GIS Experience
+I have practical experience in applying GIS to real-world infrastructure and environmental projects.
+### Tools I use:
+QGIS, Leaflet.js, GeoDjango, PostGIS, GeoJSON, Shapefiles
 
 ## 💼 Experience
 ### Tiger Park Limited
 **Software Engineer** *(Sep'22 - Present)*
-- Develop and maintain scalable applications.
-- Manage CentOS servers, including configuration, deployment, and troubleshooting.
-- Collaborated with team to architect software, streamlining operations.
+- Develop and maintain large-scale, production-ready web applications.
+- Manage CentOS servers including deployment pipelines, configurations, and troubleshooting.
+- Architect backend APIs and optimize database structures for performance.
+- Build GIS-integrated dashboards and mapping features for data-driven decision-making.
 
 ### Call & Solution
 **Android App Developer** *(Aug'17 - Jul'18)*
-- Designed and developed Android applications using Java.
-- Delivered solutions that enhanced user engagement and application performance.
+- Developed Android applications using Java.
+- Improved UI/UX and application performance through optimized code and component reuse.
 
 ## 🎓 Education
 - BSc in Computer Science and Engineering *(Ongoing)*
