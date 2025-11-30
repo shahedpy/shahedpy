@@ -15,6 +15,7 @@ I specialize in a range of tools and technologies, including:
 | **Other Tools** | <img src="https://skillicons.dev/icons?i=latex,git&theme=light" height="40" /> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/jupyter.svg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/leaflet_js.jpg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true" height="40" >|
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
+## 🌍 GIS Experience
 
 ## 💼 Experience
 ### Tiger Park Limited
