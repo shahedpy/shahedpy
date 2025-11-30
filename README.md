@@ -5,14 +5,14 @@ Passionate and experienced **Software Engineer** specializing in web and mobile 
 
 ## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
-| Tech Area       | Tools & Technologies                                                                                    |
-|-----------------|---------------------------------------------------------------------------------------------------------|
-| **Frontend**         | <img src="https://skillicons.dev/icons?i=js,ts,angular&theme=light" height="40" />                    |
-| **Backend**         | <img src="https://skillicons.dev/icons?i=py,django,fastapi&theme=light" />                    |
-| **Mobile**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,androidstudio&theme=light" />      |
-| **Databases**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light" />                       |
-| **DevOps**      | <img src="https://skillicons.dev/icons?i=nginx,aws,docker&theme=light" />          |
-| **Other Tools** | <img src="https://skillicons.dev/icons?i=latex,git&theme=light" /> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/jupyter.svg?raw=true" height="50"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/leaflet_js.jpg?raw=true" height="50"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true" height="50" >|
+| Tech Area       | Tools & Technologies                                                                                        |
+|-----------------|-------------------------------------------------------------------------------------------------------------|
+| **Frontend**    | <img src="https://skillicons.dev/icons?i=js,ts,angular&theme=light" height="40" />                          |
+| **Backend**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi&theme=light" height="40" />                      |
+| **Mobile**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,androidstudio&theme=light" height="40" /> |
+| **Databases**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light" height="40" />                |
+| **DevOps**      | <img src="https://skillicons.dev/icons?i=nginx,aws,docker&theme=light" height="40" />                       |
+| **Other Tools** | <img src="https://skillicons.dev/icons?i=latex,git&theme=light" /> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/jupyter.svg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/leaflet_js.jpg?raw=true" height="40"> <img src="https://github.com/shahedpy/shahedpy/blob/main/assets/icons/streamlit.svg?raw=true" height="40" >|
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
