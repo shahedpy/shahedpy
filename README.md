@@ -19,7 +19,7 @@ I am always keen to learn and adopt new tools and frameworks to improve my craft
 ## 🌍 GIS Experience
 I have practical experience in applying GIS to real-world infrastructure and environmental projects.
 ### Tools I use:
-QGIS, Leaflet.js, GeoDjango, PostGIS, GeoJSON, Shapefiles
+Leaflet.js, GeoDjango, PostGIS, GeoJSON, Shapefiles, Mapshaper, QGIS
 
 ## 💼 Experience
 ### Tiger Park Limited
