@@ -16,11 +16,6 @@ I specialize in a range of tools and technologies, including:
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
-## 🌍 GIS Experience
-I have practical experience in applying GIS to real-world infrastructure and environmental projects.
-### Tools I use:
-Leaflet.js, GeoDjango, PostGIS, GeoJSON, Shapefiles, Mapshaper, QGIS
-
 ## 💼 Experience
 ### Tiger Park Limited
 **Software Engineer** *(Sep'22 - Present)*
