@@ -16,26 +16,6 @@ I specialize in a range of tools and technologies, including:
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
-## 💼 Experience
-### Tiger Park Limited
-**Software Engineer** *(Sep'22 - Present)*
-- Develop and maintain large-scale, production-ready web applications.
-- Manage CentOS servers including deployment pipelines, configurations, and troubleshooting.
-- Architect backend APIs and optimize database structures for performance.
-- Build GIS-integrated dashboards and mapping features for data-driven decision-making.
-
-### Call & Solution
-**Android App Developer** *(Aug'17 - Jul'18)*
-- Developed Android applications using Java.
-- Improved UI/UX and application performance through optimized code and component reuse.
-
-## 🎓 Education
-- BSc in Computer Science and Engineering *(Ongoing)*
-- Diploma in Engineering (Computer Technology)
-
-## 🏆 Achievements
-- 🥈 Skill Competition: Secured 2nd prize for an innovative project showcasing practical solutions in software engineering.
-
 ## 📫 Contact Me
 - 📧 [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)  
 - <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)  
