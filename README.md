@@ -8,8 +8,6 @@ I specialize in building **scalable backend architectures with Django**, modern 
 
 ---
 
-
-
 ## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
 | Tech Area       | Tools & Technologies                                                                                        |
@@ -33,8 +31,11 @@ I am always keen to learn and adopt new tools and frameworks to improve my craft
 
 ### Call & Solution
 **Android App Developer** *(Aug'17 - Jul'18)*
-- Developed Android applications using Java.
-- Improved UI/UX and application performance through optimized code and component reuse.
+- Developed native Android applications using Java following clean and maintainable coding practices.
+- Integrated RESTful APIs to fetch, display, and persist data, enabling seamless client–server communication.
+- Implemented API-based data population in UI components such as RecyclerView and ListView.
+- Handled JSON parsing, request/response lifecycle, and error handling for network operations.
+- Improved UI/UX and application performance through optimized code, efficient component reuse, and asynchronous processing.
 
 ## 🎓 Education
 - BSc in Computer Science and Engineering *(Ongoing)*
