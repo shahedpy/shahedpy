@@ -3,6 +3,8 @@
 ## Summary
 Passionate and experienced **Software Engineer** specializing in web and mobile application development. Proficient in backend systems using **Django** and modern frontend frameworks like Flutter and Angular. Committed to clean, maintainable, and scalable code following **DRY**, **SOLID**, and **Clean Code** principles.
 
+I am a **Software Engineer** with hands-on experience designing and delivering **large-scale, mission-critical systems** across government, enterprise, and commercial domains. My work spans **billing platforms, personnel and human resource systems, resource monitoring solutions, GIS-based dashboards, vehicle tracking platforms, and AI-driven automation**.
+
 ## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
 | Tech Area       | Tools & Technologies                                                                                        |
