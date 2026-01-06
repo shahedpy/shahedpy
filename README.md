@@ -4,6 +4,11 @@
 
 I am a **Software Engineer** with hands-on experience designing and delivering **large-scale, mission-critical systems** across government, enterprise, and commercial domains. My work spans **billing platforms, personnel and human resource systems, resource monitoring solutions, GIS-based dashboards, vehicle tracking platforms, and AI-driven automation**.
 
+I specialize in building **scalable backend architectures with Django**, modern **web and mobile frontends**, and **production-grade deployments** on Linux servers and cloud infrastructure—always adhering to **DRY, SOLID, and Clean Code principles**.
+---
+
+
+
 ## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
 | Tech Area       | Tools & Technologies                                                                                        |
