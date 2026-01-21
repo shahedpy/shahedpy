@@ -50,3 +50,4 @@ I am always keen to learn and adopt new tools and frameworks to improve my craft
 - 🌐 [shahedpy.github.io](https://shahedpy.github.io)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img src="https://komarev.com/ghpvc/?username=sabsar42&color=blueviolet" alt="Profile Views" />
