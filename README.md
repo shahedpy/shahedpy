@@ -12,7 +12,7 @@ I specialize in building **scalable backend architectures with Django**, modern 
 I specialize in a range of tools and technologies, including:
 | Tech Area       | Tools & Technologies                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------------------------|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=js,ts,angular&theme=light" height="40" /> |
+| **Frontend**    | <img src="https://skillicons.dev/icons?i=js,ts,angular&theme=light" height="40" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=py,django,fastapi&theme=light" height="40" /> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin&theme=light" height="40" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light" height="40" /> |
