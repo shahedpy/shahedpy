@@ -49,7 +49,7 @@ I am always keen to learn and adopt new tools and frameworks to improve my craft
 - <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)  
 - 🌐 [shahedpy.github.io](https://shahedpy.github.io)
 
-## Bookmarks
+## Practices
 - https://shahedpy.me
 - https://shahedpy.me/docx
 - https://shahedpy.me/markdown-writter
