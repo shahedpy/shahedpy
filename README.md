@@ -55,7 +55,6 @@ I am always keen to learn and adopt new tools and frameworks to improve my craft
 - https://shahedpy.me/exptra
 - https://shahedpy.me/markdown-writter
 - https://shahedpy.me/resume-builder
-- https://shahedpy.me/sitecrawler
 - https://linkcollector.pythonanywhere.com
 
 <img src="https://komarev.com/ghpvc/?username=shahedpy&color=blueviolet" alt="Profile Views" />
