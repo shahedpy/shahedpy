@@ -29,6 +29,13 @@
 
 - django
 
+### Databases
+
+- SQL
+- NoSQL
+- MySQL
+- Postgres
+
 #### django
 
 - model architecting
@@ -47,23 +54,13 @@
   - Media sync
 - route53
 
-- node js
-- ruby
-- laravel
-- php
-- java
+## Tools
 
-- aws
 - api
 - git
-- NoSQL
-- MySQL
-- MongoDB
-- Casandra
-- Redis
-- Postgres
-- kubernetes
-- Azure
-- git
-- java
-- 
+
+## Mobile Apps
+
+- Java
+- Kotlin
+- Flutter
