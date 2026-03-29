@@ -1,4 +1,4 @@
-# My Skills
+# My Stack
 
 ## Frontend
 
