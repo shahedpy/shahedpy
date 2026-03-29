@@ -28,6 +28,10 @@
 ### Frameworks
 
 - django
+  - model architecting
+  - Django REST Framework
+  - pwa
+  - Multi Language
 
 ### Databases
 
@@ -35,12 +39,6 @@
 - NoSQL
 - MySQL
 - Postgres
-
-#### django
-
-- model architecting
-- Django REST Framework
-- pwa
 
 ## DevOps
 
