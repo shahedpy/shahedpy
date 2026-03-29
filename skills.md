@@ -1,10 +1,44 @@
-# Skills
-## django
+# My Skills
+
+## Frontend
+
+### Languages
+
+- html
+- css
+- javascript
+
+### Frameworks
+
+- Angular
+- Bootstrap
+
+### JavaScript Libraries
+
+- jQuery
+- chart.js
+- leaflet
+
+## Backend
+
+### Languages
+
+- python
+
+### Frameworks
+
+- django
+
+#### django
+
 - model architecting
-- drf
+- Django REST Framework
 - pwa
 
-## DevOPS
+## DevOps
+
+- Tunnelling
+
 ### AWS
 - lightsail
 - EC2
@@ -13,32 +47,6 @@
   - Media sync
 - route53
 
-## js library
-- chart.js
-- leaflet
-
--------------------------
-## languages
-- html
-- css
-- javascript
-
-## frameworks/libraries
-- Angular
-- Vue.js
-- Bootstrap
-- Jquery
-
-## tools
-- jques
-
-- django
-- fuodek js
-- express js
-- ruby on rails
-- laravel
-
-- python
 - node js
 - ruby
 - laravel
