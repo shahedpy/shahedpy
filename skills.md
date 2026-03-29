@@ -45,6 +45,7 @@
 - Tunnelling
 
 ### AWS
+
 - lightsail
 - EC2
 - S3
@@ -52,13 +53,16 @@
   - Media sync
 - route53
 
-## Tools
-
-- api
-- git
-
 ## Mobile Apps
 
 - Java
 - Kotlin
 - Flutter
+
+## Tools
+
+- api
+- git
+- github
+- VS Code
+- Jupyter Notebook
