@@ -52,6 +52,7 @@ I am always keen to learn and adopt new tools and frameworks to improve my craft
 ## Practices
 - https://shahedpy.me
 - https://bdix.shahedpy.me/
+- https://dlg.shahedpy.me/
 - https://docx.shahedpy.me
 - https://games.shahedpy.me
 - https://shahedpy.me/exptra
