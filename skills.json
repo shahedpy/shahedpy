@@ -3,7 +3,8 @@
     "Languages": [
       "HTML",
       "CSS",
-      "JavaScript"
+      "JavaScript",
+      "TypeScript"
     ],
     "Frameworks": [
       "Angular",
