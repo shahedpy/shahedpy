@@ -1,0 +1,146 @@
+```json
+{
+  "Frontend": {
+    "Languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "Frameworks": [
+      "Angular",
+      "Bootstrap"
+    ],
+    "Libraries": [
+      "jQuery",
+      "Chart.js",
+      "Leaflet"
+    ],
+    "UIFeatures": [
+      "Responsive Design",
+      "Multi-Theme Support",
+      "User-Selectable Themes",
+      "Multi-Language UI",
+      "Progressive Web App (PWA)"
+    ]
+  },
+
+  "Backend": {
+    "Languages": [
+      "Python"
+    ],
+    "Frameworks": [
+      "Django",
+      "Django REST Framework"
+    ],
+    "Development": [
+      "REST API Development",
+      "Backend Architecture",
+      "Model Architecture",
+      "Database Design",
+      "Business Logic Development",
+      "Multi-Language Support"
+    ]
+  },
+
+  "Databases": {
+    "Relational": [
+      "PostgreSQL",
+      "MySQL",
+      "SQL"
+    ],
+    "Other": [
+      "NoSQL"
+    ],
+    "Geospatial": [
+      "PostGIS"
+    ]
+  },
+
+  "GISAndMapping": {
+    "Technologies": [
+      "Leaflet",
+      "PostGIS"
+    ],
+    "Capabilities": [
+      "GIS Application Development",
+      "Interactive Web Mapping",
+      "Geospatial Data Visualization",
+      "Spatial Data Management",
+      "Location-Based Systems",
+      "Map-Based Data Analysis"
+    ]
+  },
+
+  "DevOpsAndCloud": {
+    "Cloud": {
+      "AWS": [
+        "Lightsail",
+        "EC2",
+        "S3",
+        "Route 53"
+      ]
+    },
+    "Deployment": [
+      "Application Deployment",
+      "Server Configuration",
+      "Tunneling",
+      "Media File Synchronization",
+      "Automated Database Backup"
+    ],
+    "VersionControl": [
+      "Git",
+      "GitHub"
+    ]
+  },
+
+  "MobileDevelopment": {
+    "Languages": [
+      "Java",
+      "Kotlin"
+    ],
+    "Frameworks": [
+      "Flutter"
+    ],
+    "Capabilities": [
+      "Mobile Application Development",
+      "API Integration"
+    ]
+  },
+
+  "DataVisualization": {
+    "Technologies": [
+      "Chart.js",
+      "Leaflet",
+      "Jupyter Notebook",
+      "Streamlit"
+    ],
+    "Capabilities": [
+      "Interactive Dashboards",
+      "Data Visualization",
+      "Geospatial Visualization"
+    ]
+  },
+
+  "SoftwareEngineering": {
+    "Capabilities": [
+      "Full-Stack Development",
+      "Enterprise Application Development",
+      "REST API Integration",
+      "System Architecture",
+      "Database Architecture",
+      "Scalable Application Design",
+      "Automation",
+      "Version Control",
+      "Responsive Web Application Development"
+    ]
+  },
+
+  "Tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Jupyter Notebook",
+    "Streamlit"
+  ]
+}
+```
