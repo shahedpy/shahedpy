@@ -151,10 +151,12 @@ I regularly build small applications, experiments, and developer tools to explor
 ## 🎓 Education
 
 **BSc in Computer Science and Engineering**  
+*Computer Science and Engineering*  
 *Ongoing*
 
 **Diploma in Engineering**  
-*Computer Technology*
+*Computer Technology*  
+*Completed*
 
 ---
 
