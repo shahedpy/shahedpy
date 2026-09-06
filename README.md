@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Shahed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-# 👨‍💻 Software Engineer | Backend • Enterprise Systems • GIS • Mobile • DevOps
+# 👨‍💻 Software Engineer | Backend • Enterprise Systems • Mobile • DevOps
 
 I am a **Software Engineer** experienced in designing, developing, deploying, and maintaining **large-scale, mission-critical software systems** across government, enterprise, and commercial domains.
 
