@@ -160,14 +160,6 @@ I regularly build small applications, experiments, and developer tools to explor
 
 ---
 
-## 🏆 Achievement
-
-🥈 **Skill Competition — 2nd Place**
-
-Recognized for an innovative project demonstrating practical software engineering and problem-solving skills.
-
----
-
 ## 📫 Connect With Me
 
 📧 **Email:** [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)
