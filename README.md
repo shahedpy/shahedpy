@@ -124,6 +124,7 @@ Beyond application development, I work with production infrastructure including:
 
 ---
 
+<!--
 ## 🧪 Projects & Engineering Labs
 
 I regularly build small applications, experiments, and developer tools to explore technologies and solve practical problems.
@@ -145,6 +146,7 @@ I regularly build small applications, experiments, and developer tools to explor
 - [DLG](https://dlg.shahedpy.me/)
 - [Games](https://games.shahedpy.me)
 - [Experiments](https://shahedpy.me/exptra)
+-->
 
 ---
 
