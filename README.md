@@ -168,9 +168,7 @@ I regularly build small applications, experiments, and developer tools to explor
 
 <img src="https://skillicons.dev/icons?i=linkedin" height="16" /> **LinkedIn:** [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 
-🌐 **Portfolio:** [shahedpy.me](https://shahedpy.me)
-
-💻 **GitHub:** [github.com/shahedpy](https://github.com/shahedpy)
+🌐 **Portfolio:** [hridoy.com.bd](https://hridoy.com.bd)
 
 ---
 
