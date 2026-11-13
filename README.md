@@ -1,3 +1,14 @@
+
+# Hi 👋, I'm Shahed
+
+**Software Engineer | Backend · Enterprise Systems · DevOps**
+
+I design, develop, and maintain software solutions, focusing on backend engineering, enterprise applications, and infrastructure.
+
+🌐 **Portfolio:** [hridoy.com.bd](https://hridoy.com.bd)
+
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Shahed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 # 👨‍💻 Software Engineer | Backend • Enterprise Systems • DevOps
