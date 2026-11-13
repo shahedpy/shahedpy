@@ -5,8 +5,8 @@
 
 I design, develop, and maintain software solutions, focusing on backend engineering, enterprise applications, and infrastructure.
 
-🌐 **Portfolio:** [hridoy.com.bd](https://hridoy.com.bd)
-📧 **Email:** [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)
+🌐 **Portfolio:** [hridoy.com.bd](https://hridoy.com.bd)  
+📧 **Email:** [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)  
 <img src="https://skillicons.dev/icons?i=linkedin" height="16" /> **LinkedIn:** [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)
 
 <img src="https://komarev.com/ghpvc/?username=shahedpy&color=blueviolet" alt="Profile Views" />
